@@ -1,4 +1,4 @@
-# Apt-Updater
+# Apt-Updater (NEWER VERSION AVAILABLE, CHECK MY PROFILE FOR THE BETTER VERSION)
 Updates all of your apps using Apt
 
 MUST DO TO USE:
